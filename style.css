@@ -1,6 +1,9 @@
 .container{
     margin-bottom: 100px;
 }
+.slide-img{
+    margin-top: 150px;
+}
 .light-orange-bg{
     background-color: #fceae8;
     border-radius: 10px;
