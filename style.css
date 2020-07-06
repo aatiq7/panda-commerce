@@ -54,3 +54,20 @@
 }
 
 
+#contact-us{
+    height: 300px;
+}
+#contact-us h6{
+    color: gray;
+}
+.contact{
+    text-align: center;
+}
+.contact input{
+    margin-bottom: 10px;
+}
+
+
+footer{
+    text-align: center;
+}
