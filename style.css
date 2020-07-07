@@ -12,11 +12,11 @@
     padding: 20px 40px;
 }
 .price{
-    color: #FF136F;
+    color: #000000;
 }
 .buy-now-btn{
-    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
-    color: #fff;
+    background-image: linear-gradient(45deg, #43F8C6 0%, #43A6EF 100%);
+    color: #000000;
     border: none;
     border-radius: 8px;
     padding: 9px 25px;
